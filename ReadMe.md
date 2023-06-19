@@ -1,4 +1,32 @@
+<h1>
+  <p align="center">
+    <i
+      ><img
+        src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922"
+        width="30px"
+      />
+      Hi, I'm Shatakshi
+      <img
+        src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922"
+        width="30px"
+      />
+    </i>
+  </p>
+</h1>
+<p align ="left">
+  <img src="https://readme-typing-svg.herokuapp.com?color=2ABD90&lines=Open+source+enthusiast+%E2%9D%A4%EF%B8%8F;Web+Developer+;UI-UX+Designer+%F0%9F%91%BB">
+</p>
+<img align="right" alt="GIF" src="https://i.pinimg.com/564x/5b/0e/56/5b0e56c9f7aacc388fdbcbbdb2489b52.jpg"  width="500" height="auto" />
 
+**<img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="20px"> About Me:**
+
+- Doing my Bachelor in "Bioengineering"
+- Trying to <i>merge</i> my life with <img
+        src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"
+        width="20px"
+      />;
+- On my way for *DevOps*;
+- Work? Talk? Suggestions? Hop over on my LinkedIn
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shatakshmalviya) 
 
@@ -7,7 +35,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shatakshimalvya&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shatakshimalvya&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shatakshimalvya&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shatakshimalvya&icon=0&color=0)](https://visitcount.itsvg.in)
